@@ -4,10 +4,8 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main() {
-	
-	
-	printf("HELLO, WORLD!\n");
-	printf("HELLO, WORLD!\n");
-	system("pause");
-	return 0;
+	printf("Hello World\n");
+ int idade = 19;
+ printf("idade, %d",idade);
+  return 0;
 }
